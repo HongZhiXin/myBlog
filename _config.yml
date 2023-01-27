@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jackey Hong's blog
+title: 小洪的个人博客
 subtitle: ''
 description: ''
 keywords:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Butterfly
+theme: alpha-dust
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
