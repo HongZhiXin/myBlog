@@ -1,5 +1,6 @@
 ---
 title: fetch与axios
+categories: JavaScript
 date: 2020-03-25 22:16:26
 top_img: http://img.netbian.com/file/2020/0322/0bed5d59f12720752019fc2b8ad48993.jpg
 cover: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4005754747,4127172206&fm=26&gp=0.jpg

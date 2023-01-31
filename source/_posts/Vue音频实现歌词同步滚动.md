@@ -1,5 +1,5 @@
 ---
-title: 'H5音频实现歌词同步滚动'
+title: 'Vue音频实现歌词同步滚动'
 date: 2020-09-25 23:41:08
 tags: 'vue'
 categories: '实战'
